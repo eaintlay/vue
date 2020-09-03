@@ -1,0 +1,23 @@
+1.-sudo npm install -g @vue/cli
+2.-vue
+3.-vue create cli(folder name)
+4.-cd cli
+5.-npm run srve (localhost:8080)
+
+------------------------
+
+1 - node_modules (added packages)
+2 - public (entry point to run)
+3 - src (my application)
+
+
+
+=> main.js
+  - new Vue
+  _ App.vue
+
+=> Componebt(.vue)
+ - template (HTML)
+ - script (CS)
+ - style (CSS)
+
