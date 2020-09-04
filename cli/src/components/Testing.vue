@@ -11,17 +11,14 @@
 export default {
     props:{
       msg:null
-	
+  
     },
   data(){
     return{
      title:'Testing Vue'
-
    }
   }
 }
-
 </script>
 
-<style type="text/css">
-</style>
+<style type="text/css"></style>
