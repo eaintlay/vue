@@ -16,8 +16,23 @@
   - new Vue
   _ App.vue
 
-=> Componebt(.vue)
+=> Component(.vue)
  - template (HTML)
  - script (CS)
  - style (CSS)
 
+ => UI
+  -bootstrap-vue (npm install vue bootstrap-vue bootstrap)
+
+ => Route
+  -vue-router (npm install vue-router)
+
+=>Directory
+ -views
+  -.vue
+  -call in route
+
+
+=>Using API
+ -npm install axios
+ 
